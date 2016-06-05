@@ -31,18 +31,18 @@ Daten die aus einer Schnittstelle geladen und verarbeitet werden
 
 ##Assignment 2: Big Data in Ihrem Umfeld (4 Punkte)
 >Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark. Installieren Sie die auf Ihrem Arbeitsgerät.
-*1. Punkt: Erklären Sie ihre Entscheidung
+* 1. Punkt: Erklären Sie ihre Entscheidung
 
 
 
  
-*2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
+* 2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
 
 
 
 
 
-*1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)__
+* 1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)__
 Als IDE würde ich Intellij IDEA inkl. Maven wählen. Zusätzlich muss natürlich Apache Flink vorhanden sein.
 Eine genaue Anleitung wie Apache Flink in Intellij IDEA aufgesetzt werden kann findet man unter folgendem Link: http://dataartisans.github.io/flink-training/devSetup/handsOn.html
 
@@ -50,8 +50,8 @@ Eine genaue Anleitung wie Apache Flink in Intellij IDEA aufgesetzt werden kann f
 
 #Assignment 3: Big Data in Ihrem Umfeld (4 Punkte)
 >Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch.
-###2 Punkte für Programm
-###2 Punkte, wenn das Programm auch ausführbar ist.
+* 2 Punkte für Programm
+* 2 Punkte, wenn das Programm auch ausführbar ist.
 
 Antwort
 
@@ -71,17 +71,17 @@ Sie bekommen den Auftrag, sich mit einer Data Science Technologie zu arbeiten. N
 ##Assignment 2: Technologien (4 Punkte)
 >Entscheiden Sie sich für eine Data Science Plattform. R oder Python. Installieren Sie die auf Ihrem Arbeitsgerät.
 
-*1. Punkt: Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).
+* 1. Punkt: Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).
 Ich habe mich für die Programmiersprache „Python“ entschieden, da ich sowohl persönlich als auch beruflich mit der Entwicklungsumgebung „Intellij IDEA“ zu tu habe. Da man mit dieser Umgebung äußert effektiv arbeiten kann, fiel die Entscheidung leicht. Während des Studiums konnte ich bereits erste Erfahrungen mit „Python“ sammeln, wodurch der Einstieg leichter fällt. Auch die Syntax ist bei Python sehr einfach zu lesen und zu verstehen.
 
 Weitere Punkte siehe folgende Internetseite:
 https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis
  
-*2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
+* 2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
 - RStudio
 - Python Shell
 
-*1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
+* 1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
 Da ich privat und beruflich mit IntelliJ IDEA aarbeite, würde ich auch hierfür darauf zurückgreifen. Durch das Pyhton-Plugin ist es kein Problem ein entsprechendes Projekt zu erstellen. Durch die enormen Möglichkeiten die einem IntelliJ bietet ist das arbeiten sehr effektiv.
 
 
