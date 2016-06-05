@@ -96,15 +96,15 @@ https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis
  
 * 2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
 
-[Apache Flink](https://github.com/daho/FHTW2016_BLD/blob/master/images/Python_Shell.png)
+[Python Shell](https://github.com/daho/FHTW2016_BLD/blob/master/images/Python_Shell.png)
 
-[Apache Flink](https://github.com/daho/FHTW2016_BLD/blob/master/images/Python_IntelliJ.png)
+[Python IntelliJ-Plugin](https://github.com/daho/FHTW2016_BLD/blob/master/images/Python_IntelliJ.png)
 
 
 
 * 1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
 
-Da ich privat und beruflich mit IntelliJ IDEA aarbeite, würde ich auch hierfür darauf zurückgreifen. Durch das Pyhton-Plugin ist es kein Problem ein entsprechendes Projekt zu erstellen. Durch die enormen Möglichkeiten die einem IntelliJ bietet ist das arbeiten sehr effektiv.
+Da ich privat und beruflich mit IntelliJ IDEA arbeite, würde ich auch hierfür darauf zurückgreifen. Durch das Pyhton-Plugin ist es kein Problem ein entsprechendes Projekt zu erstellen. Durch die enormen Möglichkeiten die einem IntelliJ bietet ist das arbeiten sehr effektiv.
 
 
 #Assignment 3: Big Science (4 Punkte)
@@ -113,23 +113,23 @@ Nennen Sie ein Beispiel aus ihrem Umfeld, wo Sie mit dem Algorithmus zu tun habe
 
 __classificatiom__
 
-Teilt die Eingabe mit Hilfe vorher definierten Kategorien in diese unterschiedlichen Kategorien ein. Anwendungsgebiete hierfür sind unter anderem die Mustererkennung, Künstliche Intelligenz und vielen weiteren.
+Teilt die Eingabe mit Hilfe vorher definierten Kategorien in diese unterschiedlichen Kategorien ein. Anwendungsgebiete hierfür sind unter anderem die Mustererkennung, Künstliche Intelligenz und viele weitere.
 
 Beispiel: Spam-Filter bei E-Mails
 
 
 __regression__
 
-Es wird grundsäztlich die gleiche Vorgehensweise wie bei der "Klassifikation" gewählt, jedoch mit dem Unterschied, dass die Eingaben keinen Kategorien zugeteilt werden, sondern versucht wird einen bestimmten Wert hervorzusagen.
+Es wird grundsätzlich die gleiche Vorgehensweise wie bei der "Klassifikation" gewählt, jedoch mit dem Unterschied, dass die Eingaben keinen Kategorien zugeteilt werden, sondern versucht wird einen bestimmten Wert hervorzusagen.
 
-Beispiel: Es wird versucht durch bereits bekannte Informationen (Bestellverlauf, Höhe, Datum, ...) das derzeite Budget eines Kunden zu ermitteln.
+Beispiel: Es wird versucht durch bereits bekannte Informationen (Bestellverlauf, Höhe, Datum, ...) das derzeitige Budget eines Kunden zu ermitteln.
 
 
 __clusting__
 
 Dieser Algorithmus ist sehr ähnlich zu "Klassifikation" jedoch sind zuvor keine Kategorien bekannt. Diese werden erst bei Notwendigkeit individuell erzeugt.
 
-BeispieL: "Das könnte sie auch interesseren" bei Amazon.
+Beispiel: "Das könnte sie auch interessieren" bei Amazon.
 
 
 __dimensional reduction__
