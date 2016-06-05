@@ -31,29 +31,31 @@ Daten die aus einer Schnittstelle geladen und verarbeitet werden
 
 ##Assignment 2: Big Data in Ihrem Umfeld (4 Punkte)
 >Entscheiden Sie sich für eine Data Engineering Plattform. Apache Flink oder Apache Spark. Installieren Sie die auf Ihrem Arbeitsgerät.
-* 1. Punkt: Erklären Sie ihre Entscheidung
 
+- 1. Punkt: Erklären Sie ihre Entscheidung
+Aufgrund einiger Internetrecherchen entscheide ich mich für die Data Engineering Plattform Apache Flink:
+Recherche:
+- http://de.slideshare.net/sbaltagi/flink-vs-spark
+- http://stackoverflow.com/questions/28082581/what-is-the-difference-between-apache-spark-and-apache-flink
 
+- 2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
+[Apache Flink](https://github.com/daho/FHTW2016_BLD/images/Apache_Flink.png)
 
- 
-* 2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
-
-
-
-
-
-* 1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)__
+- 1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)
 Als IDE würde ich Intellij IDEA inkl. Maven wählen. Zusätzlich muss natürlich Apache Flink vorhanden sein.
 Eine genaue Anleitung wie Apache Flink in Intellij IDEA aufgesetzt werden kann findet man unter folgendem Link: http://dataartisans.github.io/flink-training/devSetup/handsOn.html
 
 
-
 #Assignment 3: Big Data in Ihrem Umfeld (4 Punkte)
 >Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch.
-* 2 Punkte für Programm
-* 2 Punkte, wenn das Programm auch ausführbar ist.
+- 2 Punkte für Programm
+-- [Beispielprojekt](https://github.com/daho/FHTW2016_BLD/flink-java-project)
+-- [SourceCode](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/src/main/java/org/apache/flink/quickstart/WordCount.java)
+-- [JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar)
 
-Antwort
+- 2 Punkte, wenn das Programm auch ausführbar ist.
+-- [JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar) auswählen, in Apache Flink hochladen und ausführen.
+
 
 
  
