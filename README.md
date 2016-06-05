@@ -43,7 +43,7 @@ Aufgrund einiger Internetrecherchen entscheide ich mich für die Data Engineerin
 
 - 2 Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
 
-[Apache Flink](https://github.com/daho/FHTW2016_BLD/images/Apache_Flink.png)
+[Apache Flink](https://github.com/daho/FHTW2016_BLD/blob/master/images/Apache_Flink.png)
 
 - 1 Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen würden (z.B: IDE)
 
