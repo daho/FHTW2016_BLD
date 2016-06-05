@@ -49,12 +49,15 @@ Eine genaue Anleitung wie Apache Flink in Intellij IDEA aufgesetzt werden kann f
 #Assignment 3: Big Data in Ihrem Umfeld (4 Punkte)
 >Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch.
 - 2 Punkte für Programm
-..* [Beispielprojekt](https://github.com/daho/FHTW2016_BLD/flink-java-project)
-..* [SourceCode](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/src/main/java/org/apache/flink/quickstart/WordCount.java)
-..* [JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar)
+
+[Beispielprojekt](https://github.com/daho/FHTW2016_BLD/flink-java-project)
+
+[SourceCode](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/src/main/java/org/apache/flink/quickstart/WordCount.java)
+
+[JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar)
 
 - 2 Punkte, wenn das Programm auch ausführbar ist.
--- [JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar) auswählen, in Apache Flink hochladen und ausführen.
+[JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar) auswählen, in Apache Flink hochladen und ausführen.
 
 
 
