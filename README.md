@@ -62,6 +62,7 @@ Eine genaue Anleitung wie Apache Flink in Intellij IDEA aufgesetzt werden kann f
 [JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar)
 
 - 2 Punkte, wenn das Programm auch ausführbar ist.
+
 [JAR-File](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/target/flink-java-project-0.1.jar) auswählen, in Apache Flink hochladen und ausführen.
 
 
@@ -110,6 +111,29 @@ Da ich privat und beruflich mit IntelliJ IDEA aarbeite, würde ich auch hierfür
 >Der Cheatsheet auf http://scikit-learn.org/stable/tutorial/machine_learning_map/ ist eine einfache Anleitung, wie man den richtigen Algorithmus zum richtigen Data Science Problem findet. Schauen Sie in Google nach und lernen Sie classificatiom, regression, clusting und dimensional reduction unterscheiden.
 Nennen Sie ein Beispiel aus ihrem Umfeld, wo Sie mit dem Algorithmus zu tun haben. Das kann ein Beispiel sein, wie: Wenn Sie bei Amazon einkaufen. Wenn Sie von einem Marketinginstitut angerufen werden, etc.
 
-Wenn ich bei meinem Mobilfunkanbieter anrufe und über einen neuen Vertrag verhandeln möchte.
+__classificatiom__
+
+Teilt die Eingabe mit Hilfe vorher definierten Kategorien in diese unterschiedlichen Kategorien ein. Anwendungsgebiete hierfür sind unter anderem die Mustererkennung, Künstliche Intelligenz und vielen weiteren.
+
+Beispiel: Spam-Filter bei E-Mails
 
 
+__regression__
+
+Es wird grundsäztlich die gleiche Vorgehensweise wie bei der "Klassifikation" gewählt, jedoch mit dem Unterschied, dass die Eingaben keinen Kategorien zugeteilt werden, sondern versucht wird einen bestimmten Wert hervorzusagen.
+
+Beispiel: Es wird versucht durch bereits bekannte Informationen (Bestellverlauf, Höhe, Datum, ...) das derzeite Budget eines Kunden zu ermitteln.
+
+
+__clusting__
+
+Dieser Algorithmus ist sehr ähnlich zu "Klassifikation" jedoch sind zuvor keine Kategorien bekannt. Diese werden erst bei Notwendigkeit individuell erzeugt.
+
+BeispieL: "Das könnte sie auch interesseren" bei Amazon.
+
+
+__dimensional reduction__
+
+Es wird versucht die vorhandenen Daten weiter zu vereinfachen. Dieser Schritt kann vor der "Klassifikaiton" angewandt werden, um danach genauere Ergebnisse zu liefern.
+
+Beispiele: Es werden ähnliche Wörter gesucht und ersetzt.
