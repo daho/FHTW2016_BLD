@@ -55,7 +55,7 @@ Eine genaue Anleitung wie Apache Flink in Intellij IDEA aufgesetzt werden kann f
 >Schreiben Sie ein simples Program mit dem Framework (z.B. Helloworld) und laden Sie es hoch.
 - 2 Punkte für Programm
 
-[Beispielprojekt](https://github.com/daho/FHTW2016_BLD/flink-java-project)
+[Beispielprojekt](https://github.com/daho/FHTW2016_BLD/tree/master/flink-java-project)
 
 [SourceCode](https://github.com/daho/FHTW2016_BLD/blob/master/flink-java-project/src/main/java/org/apache/flink/quickstart/WordCount.java)
 
@@ -71,27 +71,38 @@ Eine genaue Anleitung wie Apache Flink in Intellij IDEA aufgesetzt werden kann f
 ##Assignment 1: Technologien (4 Punkte)
 ###1.1 (2 Punkte)
 >Sie haben in der LVA zwei Frameworks kennengelernt (R und Python). Nennen Sie zwei weitere Technologien, um Daten zu analysieren (müssen nicht open source sein)
--	Jupyter (http://jupyter.org/)
--	Apache Zeppelin (https://zeppelin.incubator.apache.org/)
+
+[MATLAB](http://de.mathworks.com/products/matlab/?requestedDomain=de.mathworks.com)
+
+[IBM SPSS](https://www-01.ibm.com/software/at/analytics/spss/)
+
 
 ###1.2 (2 Punkte)
 Sie bekommen den Auftrag, sich mit einer Data Science Technologie zu arbeiten. Nennen Sie Technologie, die ihnen auf dem ersten Blick am besten für Sie erscheint und begründen Sie das!
+
+Da jede Technologie individuelle Stärken und Schwächen hat, kann man diese Auswahl nicht generell vorab treffen. Die Entscheidung ist sehr von den Anforderungen abhängig und kann daher erst bei der Nennung solcher getroffen werden.
 
 
 ##Assignment 2: Technologien (4 Punkte)
 >Entscheiden Sie sich für eine Data Science Plattform. R oder Python. Installieren Sie die auf Ihrem Arbeitsgerät.
 
 * 1. Punkt: Begründen Sie ihre Entscheidung (Warum ziehen Sie persönlich aus ihrer Ausgangssituation die eine Technologie der anderen vor).
+
 Ich habe mich für die Programmiersprache „Python“ entschieden, da ich sowohl persönlich als auch beruflich mit der Entwicklungsumgebung „Intellij IDEA“ zu tu habe. Da man mit dieser Umgebung äußert effektiv arbeiten kann, fiel die Entscheidung leicht. Während des Studiums konnte ich bereits erste Erfahrungen mit „Python“ sammeln, wodurch der Einstieg leichter fällt. Auch die Syntax ist bei Python sehr einfach zu lesen und zu verstehen.
 
 Weitere Punkte siehe folgende Internetseite:
 https://www.datacamp.com/community/tutorials/r-or-python-for-data-analysis
  
 * 2. Punkte: Schicken Sie einen Screenshot der installierten Umgebung mit
-- RStudio
-- Python Shell
+
+[Apache Flink](https://github.com/daho/FHTW2016_BLD/blob/master/images/Python_Shell.png)
+
+[Apache Flink](https://github.com/daho/FHTW2016_BLD/blob/master/images/Python_IntelliJ.png)
+
+
 
 * 1. Punkt: Beschreiben Sie Ihre Toolchain, die Sie mit dem Framework nutzen (z.B. IDE)
+
 Da ich privat und beruflich mit IntelliJ IDEA aarbeite, würde ich auch hierfür darauf zurückgreifen. Durch das Pyhton-Plugin ist es kein Problem ein entsprechendes Projekt zu erstellen. Durch die enormen Möglichkeiten die einem IntelliJ bietet ist das arbeiten sehr effektiv.
 
 
